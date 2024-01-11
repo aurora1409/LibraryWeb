@@ -2,7 +2,7 @@
 
 ## Trang web ReactJS sử dụng BE Java kết nối CSDL MySQL 
 
-###Project bao gồm:
+### Project bao gồm:
 + Giao diện react.js
 + Back-end Java Spring Boot
 
